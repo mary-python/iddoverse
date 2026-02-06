@@ -5,6 +5,9 @@
 - Additional unit tests in prepare_domain & check_data
 - Redrafted vignette
 - Redrafted paper based on updated journal guidelines
+- Changes to derive_anthro_scores so all data is retained in output not
+  just the under 5s
+- create_clinical_hist_table.R: DM domain removed
 
 ## iddoverse 0.8.1
 
